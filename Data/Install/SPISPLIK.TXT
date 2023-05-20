@@ -1,0 +1,5 @@
+Spis plikow, ktore zostaly zsumowane w pliku instaluj.exe
+nazwa       ³    rozmiar³     offset
+instal  .exe³     15.024³          0
+font    .obr³      1.772³     15.024
+untit3  .gdr³     64.776³     16.796

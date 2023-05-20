@@ -1,0 +1,174 @@
+ฺฤhistoriaฤprogramuฤSADISTฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฟ
+ฦ1.00 (25.12.98)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ pierwsza wypuszczona wersja                                              ณ
+ฦ1.01 (10.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ poprawiony wybor materialu do rysowania                                  ณ
+ฦ1.02 (10.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ dodane opcje wybuchania ludzi i wychodzenia po scianach                  ณ
+ฦ1.03 (14.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ poprawione powiekszenie                                                  ณ
+ฦ1.04 (15.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ poprawione rysowanie wybuchow i piorunow                                 ณ
+ณ þ usuniety BGI i GRAPH.TPU                                                 ณ
+ฦ1.05 (16.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ dodany rysunek tytulowy narysowany przez Sebastiana A.Dusze ;)           ณ
+ณ þ drobne poprawki przy powiekszeniu                                        ณ
+ณ þ dodany plik "HISTORIA.TXT"                                               ณ
+ฦ1.06 (18.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ poprawiony rysunek tytulowy                                              ณ
+ณ þ poprawiony sposob pojawiania sie rysunku                                 ณ
+ณ þ nowy wpis do "kredytow"                                                  ณ
+ฦ1.061 (19.01.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ drobna poprawka ze sprawdzaniem pliku z konfiguracja karty muzycznej     ณ
+ฦ1.07 (20.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ pioruny teraz sie moga rozwidlac                                         ณ
+ณ þ dodany element do rysowania - cegly                                      ณ
+ณ þ przy rysowaniu zawsze widac na kursorze co bedzie narysowane             ณ
+ณ þ w plikach zapisu (*.SDS) zapisywane sa teraz tez ustawienia, np: rodzaj  ณ
+ณ   nieba, punkty wyjscia, burza itp.                                        ณ
+ณ þ dodany plik "2_SALE.SDS"                                                 ณ
+ฦ1.08 (22.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ mozna wylaczyc i wlaczyc kursor myszy klawiszem X                        ณ
+ณ þ dostepna jest nowa bron: dzialo maszynowe                                ณ
+ณ þ opcja trzesienia sie ekranu przy wybuchach                               ณ
+ฦ1.09 (23.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ poprawiony blad przy piorunach                                           ณ
+ณ þ poprawka przy wczytywaniu konfiguracji                                   ณ
+ณ þ w plikach *.SDS (zapisy terenu) mozna zapisywac tez ulozenie min         ณ
+ณ þ mozna usuwac miny recznie klawiszem 'delete'                             ณ
+ณ þ dodany plik "TUNELE.SDS"                                                 ณ
+ณ þ drobne poprawki w pliku "SADIST.TXT"                                     ณ
+ฦ1.10 (28.01.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ dodany blysk przy piorunach                                              ณ
+ณ þ rozdzielone opcje na opcje ludzi i ogolne opcje                          ณ
+ณ þ dodany polysk na guzikach                                                ณ
+ณ þ pewne modyfikacje w pomocy do programu                                   ณ
+ณ þ nowa wersja plikow "SADIST.TXT" i "HISTORIA.TXT"                         ณ
+ฦ1.11 (01.02.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ nowa opcja ustawiania wielkosci opadow                                   ณ
+ณ þ dodane cienie na suwakach                                                ณ
+ณ þ drobne poprawki w programie co skrocilo czas czekania na winiecie        ณ
+ณ þ poprawka przy wczytywaniu i zapisywaniu plikow (ostatnio uzywany plik)   ณ
+ณ þ wybor postaci dla poszczegolnych druzyn !                                ณ
+ณ þ dodany edytor postaci                                                    ณ
+ณ þ pierwsze dodane postaci: Ludzie, Ludzie z palami, Tlusciochy i Ufoki     ณ
+ฦ1.111 (20.02.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ drobna poprawka w programie oraz poprawione adresy strony i email        ณ
+ณ þ program przerobiony tak, zeby dzialal na Pentium II                      ณ
+ณ þ dane zostaly polaczone w jednym pliku SADIST.DAT                         ณ
+ฦ1.2 (3.04.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ kazdy z zestawow postaci zostal zaopatrzony we wlasne dzwieki, dzieki    ณ
+ณ   czemu rozne "stworzenia" moga wydawac rozne dzwieki; zmienil sie tez     ณ
+ณ   przez to format pliku *.SDP, w ktorym musza znajdowac sie tez WAVE'y     ณ
+ณ þ dodana opcja "szalonych ludzi"                                           ณ
+ณ þ dodany drugi rysunek tytulowy oraz drugi sposob ich pokazywania sie      ณ
+ณ þ dodane jedno nowe niebo (zielone)                                        ณ
+ฦ1.21 (6.04.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ mozna wybrac panike, jako poczatkowy ruch postaci                        ณ
+ณ þ postaci nie moga juz kopac w metalu                                      ณ
+ณ þ poprawionych pare malych bledow w programie                              ณ
+ณ þ dodana bron snajperska                                                   ณ
+ณ þ dodany licznik trupow ;)                                                 ณ
+ฦ1.22 (10.04.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ calkowicie zmienione menu z tekstow na ikony                             ณ
+ณ þ zmieniona funkcja kapania krwi na horror, czyli krew sama sie tworzy     ณ
+ณ þ zmieniona funkcja sopli tak, ze kiedy sie ja wylaczy, to przestaja one   ณ
+ณ   tez sie urywac i spadac,a po wlaczeniu dziala tak samo, jak dotad        ณ
+ณ þ pare drobnych poprawek oraz zmian w programie                            ณ
+ฦ1.3 (30.04.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ snieg i deszcz teraz pada na dwoch planach: normalnie i z przodu         ณ
+ณ þ dodane obiekty na terenie: drzewa, kamienie itd. oraz tekstury na gorach ณ
+ณ þ wprowadzona lista "najwiekszych sadystow" i co za tym idzie, imie gracza ณ
+ณ þ dodana mozliwosc zapalenia sie ludzi oraz 2 bronie z uzyciem ognia       ณ
+ณ þ przepasc na dole ekranu zostala zamieniona na wode lub ogien (do wyboru) ณ
+ณ þ dodana bomba atomowa                                                     ณ
+ณ þ poczawszy od tej wersji zestawy postaci beda sie miescily w katalogu     ณ
+ณ   POSTACI, wewnatrz katalogu programu, a tereny beda w katalogu TERENY.    ณ
+ณ   Katalogi te zostana same zalozone przez program, ale nalezy samodzielnie ณ
+ณ   przekopiowac postaci oraz tereny do odpowiednich katalogow. Przy zapisy- ณ
+ณ   waniu i odczytywaniu ich w programie, beda uzywane juz tylko te katalogi.ณ
+ณ   Zostalo to zrobione po to, by nie robic balaganu w katalogu programu.    ณ
+ณ þ dosc bardzo zmienione "informacje o programie" + dodane nowe osoby       ณ
+ณ þ miny mozna teraz usuwac takze kliknieciem prawym klawiszem myszy na mi-  ณ
+ณ   nie, pod warunkiem, ze z menu wybrane sa miny (jako bron)                ณ
+ณ þ nowa opcja przy punktach wyjscia: ruch losowy, ale mozliwosci sa tylko   ณ
+ณ   cztery: stoi, idzie, biegnie, panika; przydatne przy robieniu walk mie-  ณ
+ณ   dzy druzynami, tak, zeby sie sami bili :)                                ณ
+ณ þ przy broni maszynowej teraz sa 2 rodzaje: 1 strzela tak, jak dotad, a 2  ณ
+ณ   strzela podobnie, ale z wiekszym rozrzutem                               ณ
+ณ þ dwa sposoby strzelania krwia i kamykami                                  ณ
+ณ þ nowy rodzaj nieba: czerwone (jak krew ;) )                               ณ
+ณ þ sporo roznych poprawek w programie                                       ณ
+ณ þ dodane blyski w tle (burzy oraz racy)                                    ณ
+ณ þ dodana ikona programu dla Windows 95/98/NT                               ณ
+ณ þ dodany plik SADIST.HTM                                                   ณ
+ฦ1.31 (8.05.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ poprawiony zoom                                                          ณ
+ณ þ dodany 2. rodzaj wyrzucania min: szybko, jak z dziala maszynowego        ณ
+ณ þ przepasc przywrocona jako trzecia opcja dziury na dole ekranu            ณ
+ณ þ dodana mozliwosc stawiania obiektow (tzn drzew itd)                      ณ
+ณ þ dodane latajace "miesko" po zabitych                                     ณ
+ณ þ poprawiony blad przy odrzucaniu ludzi od wybuchow                        ณ
+ณ þ przyblizone do realiow skutki wybuchu przy ludziach - duzy wybuch natych-ณ
+ณ   miast rozrywa postac                                                     ณ
+ณ þ kilka drobnych poprawek: m.in. dzwieki, rysowanie, jedno menu u gory itp.ณ
+ณ þ dodany dzwiek spalania sie w ogniu                                       ณ
+ฦ1.32 (16.05.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ kilka drobnych poprawek w kodzie                                         ณ
+ณ þ dodany guzik do odpalania wszystkich min jednoczesnie                    ณ
+ฦ1.33 (24.05.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ kolejne pare poprawek w kodzie                                           ณ
+ณ þ dodana mozliwosc gaszenia ognia deszczem i sniegiem                      ณ
+ณ þ nowa bron - pila lancuchowa                                              ณ
+ณ þ dodana obsluga pamieci XMS do programu !                                 ณ
+ณ þ pomoc XaN'a jest nieoceniona - pare poprawek w kodzie przyspieszylo dzia-ณ
+ณ   lanie prorgamu                                                           ณ
+ฦ1.34 (5.06.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ od teraz mozna jednoczesnie wczytac az 5 druzyn jedoczesnie! w zwiazku z ณ
+ณ   tym pare niezbednych poprawek i przerobek w programie                    ณ
+ณ þ dodane nowe tla ! teraz nie tylko mozna miec cieniowane niebo, ale takze ณ
+ณ   np. gory lub pustynie w tle                                              ณ
+ณ þ po ogromnych zmaganiach z upierdliwosciami pascala udalo mi sie zrobic,  ณ
+ณ   zeby kazda z druzyn mogla miec duzo dluzsze dzwieki (trzymane w XMS)     ณ
+ณ þ poprawiona bron snajperska (teraz zabija jednym strzalem)                ณ
+ณ þ od teraz mozna robic screen-shot'y, czyli zdjecia ekranu zapisywane w    ณ
+ณ   plikach SSHOT???.PCX (??? to numer shota) - klawiszem F12, niestety krzy-ณ
+ณ   zyk myszy zostaje na ekranie, wiec przed zrobieniem shota proponuje wyla-ณ
+ณ   czyc go klawiszem X                                                      ณ
+ณ þ nowa bron - pocisk samonaprowadzajacy                                    ณ
+ณ þ nowy schemat grafiki - miescko i kosci ;-) (dzieki XaN!)                 ณ
+ณ þ jak zwykle garsc poprawek :)                                             ณ
+ณ þ nieco poprawione ustawianie karty muzycznej                              ณ
+ณ þ zmienil sie plik z konfiguracja programu !!! przed pierwszym uruchomie-  ณ
+ณ   niem programu, prosze skasowac plik z konfiguracja z poprzednej wersji:  ณ
+ณ   SADIST.CFG !!!!!!!!                                                      ณ
+ฦ1.35 (18.06.99)อออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ kilka drobnych poprawek w kodzie                                         ณ
+ณ þ pewna poprawka, ktora nieco przyspieszyla dzialanie programu !!          ณ
+ณ þ dodane podpisy do ikon w menu oraz komentarze                            ณ
+ณ þ nowa bron - kowadlo                                                      ณ
+ณ þ poprawiony POSTEDYT.EXE                                                  ณ
+ณ þ nowy obrazek w menu - narysowal go Jakub Maciejek (Crieg)                ณ
+ณ þ nowy wyglad "ogolnych opcji" + mala zmiana w "opcjach ludzi"             ณ
+ณ þ kolejny schemat grafiki - cmentarz, takze narysowal go Jakub Maciejek    ณ
+ณ þ dodana mozliwosc "opalania" ogniem terenu !                              ณ
+ณ þ poprawione wczytywanie postaci, teraz mozna jednoczesnie wczytac wszyst- ณ
+ณ   kie zestawy, a nie kazdy osobno                                          ณ
+ฦ1.36 (3.08.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ jak zwykle pare poprawek w kodzie :)                                     ณ
+ณ þ spadajace kowadlo moze teraz uaktywnic mine                              ณ
+ณ þ dodana mozliwosc rzucania ludzmi oraz strzelania nimi                    ณ
+ณ þ nowa opcja: rany od uderzen, czyli kiedy ktos wpadnie na sciane, to sie  ณ
+ณ   moze zranic                                                              ณ
+ณ þ komentarze w grze zamienione na "X x combo"                              ณ
+ณ þ wreszcie poprawione komentarze do aktualnego wyniku                      ณ
+ณ þ dodane 3 nowe rysunki tla                                                ณ
+ฦ1.37 (6.09.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ poprawiony ZOOM, dzieki asemblerowym procedurom XaN'a (dzieki!)          ณ
+ณ þ zmieniony format pliku z rekordami (SADIST.HSC)                          ณ
+ณ þ mozna juz robic spacje w imieniu sadysty (byl blad i sie nie dalo)       ณ
+ฦ1.4 (15.09.99)ออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออออต
+ณ þ kosmetyczne poprawki programu, czyli:np. usuniecie pierwszej z winiet i  ณ
+ณ   zostawienie tylko drugiej (poprawionej o podtytul i logo S.K.GAD)        ณ
+ณ þ poprawiony schemat grafiki: cmentarz                                     ณ
+ภฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤฤ(c)1999ฤGADฤู

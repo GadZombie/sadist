@@ -1,0 +1,29 @@
+Spis plikow, ktore zostaly zsumowane w pliku SADIST.DAT
+nazwa       ³    rozmiar³     offset
+font    .fnt³      1.772³         47
+krzyzyk .obr³        123³      1.819
+krzyzyk2.obr³        291³      1.942
+sadist  .pal³        768³      2.233
+blysk   .wav³     13.468³      3.001
+boom2   .wav³      8.636³     16.469
+jetflyby.wav³     23.932³     25.105
+mina    .wav³      2.027³     49.037
+pip     .wav³        660³     51.064
+strzal  .wav³      2.552³     51.724
+sadist2 .bmp³     65.078³     54.276
+ikony1  .bmp³      4.278³    119.354
+ikony2  .bmp³      4.278³    123.632
+ikony3  .bmp³      4.278³    127.910
+ikony4  .bmp³      4.278³    132.188
+atomowa .wav³     14.688³    136.466
+plum    .wav³      6.694³    151.154
+menu_obr.bmp³     65.078³    157.848
+miesko  .wav³      6.252³    222.926
+ogien   .wav³      7.932³    229.178
+pila1   .wav³     14.888³    237.110
+pila2   .wav³     13.324³    251.998
+sshot   .wav³      4.564³    265.322
+kowadlo .wav³      2.400³    269.886
+kowadlo .obr³        104³    272.286
+teksty  .kod³      1.220³    272.390
+sadist  .pmc³      9.266³    273.610
