@@ -3,6 +3,8 @@
 Sadist - An old classic DOS game from 1998
 Created by me - Grzegorz Drozd
 
+![Sadist title](Data/sadist.jpg "Sadist title")
+
 # Website
 
 The Sadist's website is available at https://gadz.pl/opis.php?i=101
