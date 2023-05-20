@@ -3,6 +3,11 @@
 Sadist - An old classic DOS game from 1998
 Created by me - Grzegorz Drozd
 
+# Website
+
+The Sadist's website is available at https://gadz.pl/opis.php?i=101
+You can download working game there, find some videos, screenshots, descriptions etc.
+
 # Compilation
 
 Sadist is created in Turbo Pascal 7.0 by Borland International Inc.
