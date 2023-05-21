@@ -10,6 +10,8 @@ Created by me - Grzegorz Drozd
 The Sadist's website is available at https://gadz.pl/opis.php?i=101
 You can download working game there, find some videos, screenshots, descriptions etc.
 
+A video gameplay is here: https://www.youtube.com/watch?v=yZi7GF4NsNg
+
 # Compilation
 
 Sadist is created in Turbo Pascal 7.0 by Borland International Inc.
@@ -19,9 +21,9 @@ All needed source files should be included in this repositiory. Main file to sta
 
 # The code
 
-This is a Polish game. I was creating it when I was yound and learning to code, so this code is not top quality. Almost all variable and type names are Polish, so it could be hard to understand for foreigners. You'll see also there is a big mess in the code, ugly formatting etc. Sorry, it was my fault. You may believe me, but today I do code reviews to other programmers at work and I don't allow anyone to type like this what is here! BUT! All this shows how a man learns and develop his skills.
+This is a Polish game. I was creating it when I was young and learning to code, so this code is not top quality. Almost all variable and type names are Polish, so it could be hard to understand for foreigners. You'll see also there is a big mess in the code, ugly formatting etc. Sorry, it was my fault. You may believe me, but today I do code reviews to other programmers at work and I don't allow anyone to type like this what is here! BUT! All this shows how a man learns and develop his skills.
 
-I'll try to fix the ugly formatting using some automatic formatter for better quality, but it's not very necessary today.
+The code now is mostly automatically formatted to be more readable. The original code can be found in previous versions of the files but it's rather not important.
 
 # The purpose of this repositiory
 
