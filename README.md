@@ -7,7 +7,7 @@ Created by me - Grzegorz Drozd
 
 # Website
 
-The Sadist's website is available at https://gadz.pl/opis.php?i=101
+The Sadist's website is available at https://gadz.pl/sadist
 You can download working game there, find some videos, screenshots, descriptions etc.
 
 A video gameplay is here: https://www.youtube.com/watch?v=yZi7GF4NsNg
